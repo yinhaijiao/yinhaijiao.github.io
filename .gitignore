@@ -61,4 +61,5 @@ typings/
 .next
 
 # mac
+.DS_Store
 demo/paint_demo/.DS_Store
